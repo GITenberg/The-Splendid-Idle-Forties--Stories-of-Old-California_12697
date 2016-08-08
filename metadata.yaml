@@ -1,0 +1,35 @@
+_repo: The-Splendid-Idle-Forties--Stories-of-Old-California_12697
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Atherton, Gertrude Franklin Horn
+    aliases:
+    - Horn, Gertrude Franklin
+    - Lin, Frank
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '263'
+    url: http://www.gutenberg.org/2009/agents/263
+    wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12697'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction, American'
+- !lcsh 'California -- History -- To 1846 -- Fiction'
+- !lcsh 'Spaniards -- California -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'The pearls of Loreto -- The ears of twenty Americans -- The wash-tub
+  mail -- The conquest of Doña Jacoba -- A ramble with Eulogia -- The isle of skulls
+  -- The head of a priest -- La Pérdida -- Lukari''s story -- Natalie Ivanhoff: a
+  memory of Fort Ross -- The vengeance of Padre Arroyo -- The bells of San Gabriel
+  -- When the devil was well.'
+title: 'The Splendid Idle Forties: Stories of Old California'
+url: http://www.gutenberg.org/ebooks/12697
